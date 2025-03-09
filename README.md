@@ -4,21 +4,6 @@ Welcome to the Playcodes repository! This collection is dedicated to solving pop
 Overview
 Playcodes is designed to provide solutions to a variety of coding challenges, from algorithmic puzzles to practical programming tasks. Whether you're preparing for a coding interview, brushing up on your skills, or just looking for fun problems to solve, you'll find valuable resources here.
 
-Table of Contents
-Introduction
-
-Repository Structure
-
-Getting Started
-
-Usage
-
-Contributing
-
-License
-
-Contact
-
 Introduction
 This repository aims to be a comprehensive resource for anyone interested in improving their coding skills. Each solution is carefully crafted to be efficient, readable, and well-documented.
 
@@ -26,25 +11,12 @@ Repository Structure
 The repository is organized into directories based on problem categories:
 
 
-Copy
-playcodes/
-├── algorithms/
-├── data_structures/
-├── everyday_tasks/
-├── sorting/
-├── searching/
-└── miscellaneous/
 Getting Started
 To get started, clone the repository to your local machine:
-
-bash
 
 Copy
 git clone https://github.com/Emthehacker/playcodes.git
 Navigate to the directory:
-
-bash
-
 Copy
 cd playcodes
 Usage
